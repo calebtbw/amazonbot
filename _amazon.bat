@@ -1,0 +1,1 @@
+python app.py amazon --test --checkshipping --slow-mode --alt-checkout --shipping-bypass
